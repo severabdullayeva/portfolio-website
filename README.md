@@ -30,4 +30,4 @@ Responsive personal portfolio website based on the Rezume template.
 
 This project is based on the Rezume template.
 
-Original design by Colorlib. 
+Original design by Colorlib.   
