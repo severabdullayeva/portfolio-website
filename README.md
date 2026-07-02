@@ -1,33 +1,33 @@
-Portfolio Website (Rezume Template)
+# Portfolio Website (Rezume Template)
+
 Responsive personal portfolio website based on the Rezume template.
 
-Features
-Responsive design (Mobile-friendly)
+---
 
-Mobile burger menu
+## Features
 
-Portfolio filtering with JavaScript
+- Responsive design (Mobile-friendly)
+- Mobile burger menu
+- Portfolio filtering with JavaScript
+- AOS scroll animations
+- Contact section
+- Services and testimonials sections
 
-AOS scroll animations
+---
 
-Contact section
+## Technologies
 
-Services and testimonials sections
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap 5  
+- AOS (Animate On Scroll)  
+- Font Awesome  
 
-Technologies
-HTML5
+---
 
-CSS3
+## Credits
 
-JavaScript
-
-Bootstrap 5
-
-AOS (Animate On Scroll)
-
-Font Awesome
-
-Credits
 This project is based on the Rezume template.
 
 Original design by Colorlib.
