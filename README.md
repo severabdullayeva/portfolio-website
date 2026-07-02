@@ -55,4 +55,4 @@ git clone https://github.com/severabdullayeva/resume.git
 
 ## 🙏 Credits
 
-This project is based on the **Rezume** template by **Colorlib**.
+This project is based on the **Rezume** template by **Colorlib**.   
