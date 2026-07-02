@@ -1,33 +1,58 @@
-# Portfolio Website (Rezume Template)
+# 📄 Resume
 
-Responsive personal portfolio website based on the Rezume template.
+A responsive personal portfolio website recreated for frontend development practice based on the Rezume template.
 
 ---
 
-## Features
+## 📖 Description
 
-- Responsive design (Mobile-friendly)
-- Mobile burger menu
-- Portfolio filtering with JavaScript
-- AOS scroll animations
+This project was built to improve frontend development skills by recreating a modern portfolio website. It focuses on responsive design, clean layout, and interactive user experience.
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- AOS (Animate On Scroll)
+- Font Awesome
+
+---
+
+## 🚀 Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/severabdullayeva/resume.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser or run it using Live Server.
+
+---
+
+## ✨ Features
+
+- Responsive design
+- Mobile navigation menu
+- Portfolio filtering
+- Scroll animations with AOS
 - Contact section
-- Services and testimonials sections
+- Services section
+- Testimonials section
 
 ---
 
-## Technologies
+## 👩‍💻 Author
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap 5  
-- AOS (Animate On Scroll)  
-- Font Awesome  
+**Sevər Abdullayeva**
 
 ---
 
-## Credits
+## 🙏 Credits
 
-This project is based on the Rezume template.
-
-Original design by Colorlib.   
+This project is based on the **Rezume** template by **Colorlib**.
